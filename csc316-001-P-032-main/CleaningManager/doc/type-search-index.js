@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.ncsu.csc316.cleaning.manager","l":"CleaningManager"},{"p":"edu.ncsu.csc316.cleaning.manager","l":"ReportManager"}];updateSearchResults();

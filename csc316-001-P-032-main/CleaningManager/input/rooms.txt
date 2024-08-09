@@ -1,0 +1,8 @@
+ROOM_ID,LENGTH,WIDTH
+Office,12,14
+Dining Room,15,15
+Living Room,25,35
+Guest Bedroom,17,16
+Guest Bathroom,10,8
+Foyer,8,8
+Kitchen,18,20
